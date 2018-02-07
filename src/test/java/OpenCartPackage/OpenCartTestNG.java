@@ -36,7 +36,7 @@ public class OpenCartTestNG {
 	}
 	@Test(priority=1)
 	public void CreateAccount_01(){
-		System.out.println("**********************1st TestCase **********************");
+		System.out.println("**********************1st TestCase ****************************************");
 		obj.inputAccoutDetails();	
 	}
 	

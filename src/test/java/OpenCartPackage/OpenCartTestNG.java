@@ -42,7 +42,7 @@ public class OpenCartTestNG {
 	
 	@Test(priority=2)
 	public void LoginAccount_02(){
-		System.out.println("**********************2nd TestCase **********************");
+		System.out.println("**********************2nd TestCase **************************************");
 		obj.loginCart();
 		obj.orderHistoryDetails();
 	}
